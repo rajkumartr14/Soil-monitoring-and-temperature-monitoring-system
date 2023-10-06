@@ -1,1 +1,1 @@
-# Soil-monitoring-and-temperature-monitoring-system
+# Soil-humidity-and-temperature-monitoring-system
